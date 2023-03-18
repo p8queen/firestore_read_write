@@ -1,3 +1,4 @@
 python-demo.json
 netninja-auth.json
-
+dummy.py
+__pycache__/
